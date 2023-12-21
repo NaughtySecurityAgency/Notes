@@ -1,2 +1,2 @@
-# Notes
-Personal notes, stories and guides
+# Guides
+My guides and short stories
