@@ -22,8 +22,8 @@ Half precision = 16 bit
 Single precision = 32 bit
 Double precision = 64 bit
 
-[details]
-texels per second
+[texel fillrate]
+1 GB VRAM = 10 GT/s
 
 [figures]
 https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units
