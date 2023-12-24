@@ -35,4 +35,6 @@ gtx 1060 has 4 tflops and 80gps.
 rx 570 has 5 tflops and 60gps
 That means that gtx 1060 can show image at 2x 4k screens at 120 fps in dx11 32 bit titles
 That also means that under above conditions, rx 570 will perform roughly the same since it lacks gps,
-but on single screen or lower res will perform better then gtx 1060 since it has more gflops
+but on single screen or lower res will perform better then gtx 1060 since it has more gflops. For
+mining purposes only, rx 570 is a better card. Also, note you need more texels per second the more
+vram you have. Do not add system ram for gpu use if you lack tps.
